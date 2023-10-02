@@ -6,3 +6,4 @@ Resolusi di sisa akhir tahun 2023
   - Belajar framework CSS Tailwind
   - Membuat web project menggunakan HTML, CSS, Javascript
   - Belajar React.js
+  - Belajar Framework CSS Bootstrap

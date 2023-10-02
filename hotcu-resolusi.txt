@@ -1,0 +1,8 @@
+Resolusi di sisa akhir tahun 2023
+  - Membuat Landing Page menggunakan HTML, CSS untuk Freecodecamp
+  - Membuat Portfolio Webpage untuk Freecodecamp
+  - Mengintegrasikan Javascript ke dalam Landing Page dan Portfolio Webpage
+  - Belajar Git dan Github
+  - Belajar framework CSS Tailwind
+  - Membuat web project menggunakan HTML, CSS, Javascript
+  - Belajar React.js
